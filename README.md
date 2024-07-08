@@ -1,4 +1,3 @@
-# IFFusion-Illumination-free-Fusion-Network-for-Infrared-and-Visible-Images
-### To test:
-  * Put the test data in `./dataset/`
-  * Run ```python test_fusion.py```<br>
+# IFFusion
+Official implementation of "Illumination-free-Fusion-Network-for-Infrared-and-Visible-Images"
+Code will be coming soon.
